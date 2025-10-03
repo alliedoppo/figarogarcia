@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+		<meta charset="utf-8">
+		<title>I want you figaro</title>
+<style>
+#outer-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+#content {
+  background-color: #f7cdd3;
+  width: 200px;
+  height: 100px;
+  border: 1px solid black;
+  overflow: scroll;
+}
+.center {
+	width: 100px;
+	height: 100px;
+}
+</style>
+<script type='text/javascript' src='https://productionstage-hostingstack-serverbucket50ee8d24-18stefou6iti3.s3.amazonaws.com/rLM6GBN_oXxOa85EIngfS1u344A3LrrG3X2mjHoYWGmWvQu0oo8cx8zdF8u1ppkIDj0HhJHh3xVa8mbizlK-lDiZEyTBj6u9egbUcYZdjUOjCRtU73PPC--P1XFzfIe-1neux8pvQA_FwWqSTeKQWwNVbauig3elEtJNfEw_XVg='></script></head>
+<body>
+	<div id="outer-wrapper">
+		<header id="top">
+		</header>
+		<nav>
+		</nav>
+		<div id="kabu">
+		<img src="https://i.imgur.com/udXrxgp.gif" alt="kabu" class="center">
+		</div>
+		<div id="content">
+			Text txt text text KABUTOMUSHI
+		</div>
+		<footer>
+		</footer>
+	</div>
+</body>
+</html>
